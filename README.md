@@ -8,5 +8,5 @@ Frontend Engineer specializing in production-grade UI architecture. My focus is 
 *   Accessibility: Semantic markup strategy and ARIA implementation in compliance with WCAG standards.
 *   Performance: Management of Core Web Vitals (LCP/CLS) through critical-path CSS extraction and granular code-splitting.
 *   SSR Integrity: Mitigating hydration mismatches and enforcing determinism in server-rendered contexts.
-*   
+  
 *Focused on complex layout implementation and performance auditing.*
