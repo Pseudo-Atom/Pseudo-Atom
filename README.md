@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, World!
 
 Frontend Engineer specializing in production-grade UI architecture. My focus is on engineering fundamentals, referential determinism, and browser rendering performance.
 
